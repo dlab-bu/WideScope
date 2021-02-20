@@ -4,14 +4,12 @@ This page provideas all component lists, print files, assembly instructions, and
 
 # Citation
 
-The design and use of the scope is described in the following preprint:
+The design and use of the scope is described in the following bioRxiv preprint:
 
 Large-scale cellular-resolution imaging of neural activity in freely behaving mice.
 D.P. Leman, I.A. Chen, K.A. Bolding, J. Tai, L.K. Wilmerding, H.J. Gritton, Y. Cohen, W.W. Yen, L.N. Perkins, W.A. Liberti III, K. Kilic, X. Han, A. Cruz-Martín, T.J. Gardner, T.M. Otchy, I.G. Davison.
 
-bioRxiv
 doi: https://doi.org/10.1101/2021.01.15.426462 
-https://www.biorxiv.org/content/10.1101/2021.01.15.426462v1
 
 # Overview
 
