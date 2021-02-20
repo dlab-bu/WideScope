@@ -1,5 +1,6 @@
 # WideScope
-=========
+======
+
 This page provideas all component lists, print files, assembly instructions, and code for assembling a large-area miniscope.
 
 ## Citation
