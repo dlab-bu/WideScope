@@ -1,0 +1,2 @@
+# WideScope components list
+
