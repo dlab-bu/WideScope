@@ -15,13 +15,16 @@ D.P. Leman, I.A. Chen, K.A. Bolding, J. Tai, L.K. Wilmerding, H.J. Gritton, Y. C
 
 doi: https://doi.org/10.1101/2021.01.15.426462 
 
-## Components
+## Components and assembly
 
 The design is based on a 3-D printed housing combined with off-the-shelf optical components available from commercial suppliers. It can be implemented with different sensor options depending on experimental needs.
 
 Files for 3D printing different housing configurations are [here].
+
 A components list is [here].
+
 An assembly guide is [here].
+
 MATLAB code for acquiring synchronized neural imaging data and behavioral video is [here].
 
 
