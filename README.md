@@ -1,4 +1,4 @@
-## WideScope - mesoscopic cellular-resolution imaging in behaving animals
+# WideScope - large-area, cellular-resolution imaging in behaving animals
 
 This page provideas all component lists, print files, assembly instructions, and code for assembling a large-area miniscope.
 
