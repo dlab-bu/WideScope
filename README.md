@@ -22,6 +22,8 @@ The design is based on a 3-D printed housing combined with off-the-shelf optical
 Files for 3D printing different housing configurations are [here].
 
 A components list is [here].
+https://github.com/dlab-bu/WideScope/tree/main/3D_Print_Files
+
 
 An assembly guide is [here].
 
