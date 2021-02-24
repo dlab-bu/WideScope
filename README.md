@@ -19,10 +19,16 @@ doi: https://doi.org/10.1101/2021.01.15.426462
 
 The design is based on a 3-D printed housing combined with off-the-shelf optical components available from commercial suppliers. It can be implemented with different sensor options depending on experimental needs.
 
-Files for 3D printing different housing configurations are [here].
+Files for 3D printing different housing configurations are here:.
 
-A components list is [here].
 https://github.com/dlab-bu/WideScope/tree/main/3D_Print_Files
+
+
+A components list is here:
+
+https://docs.google.com/spreadsheets/d/1gIpmSVnjN3Ketk4CQQ4sIoGWy5cocQ0lN56zsxl2whk/edit#gid=0
+
+
 
 
 An assembly guide is [here].
