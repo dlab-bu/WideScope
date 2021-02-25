@@ -29,8 +29,9 @@ A components list is above and linked to here:
 https://docs.google.com/spreadsheets/d/1gIpmSVnjN3Ketk4CQQ4sIoGWy5cocQ0lN56zsxl2whk/edit#gid=0
 
 
-An assembly guide is [here].
+An assembly guide is here:
 
+https://github.com/dlab-bu/WideScope/wiki/WideScope-Assembly-Guide
 
 
 MATLAB code for acquiring synchronized neural imaging data and behavioral video is [here].
