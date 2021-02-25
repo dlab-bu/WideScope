@@ -34,7 +34,9 @@ An assembly guide is here:
 https://github.com/dlab-bu/WideScope/wiki/WideScope-Assembly-Guide
 
 
-MATLAB code for acquiring synchronized neural imaging data and behavioral video is [here].
+MATLAB code for acquiring synchronized neural imaging data and behavioral video is here:
+
+https://github.com/dlab-bu/WideScope/tree/main/Acquisition_Code
 
 
 
