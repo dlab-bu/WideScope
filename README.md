@@ -34,6 +34,12 @@ An assembly guide is here:
 https://github.com/dlab-bu/WideScope/wiki/WideScope-Assembly-Guide
 
 
+Details for connector and cable options are here:
+
+https://github.com/dlab-bu/WideScope/wiki/Cable-&-Interface-Assembly-Guide
+
+
+
 MATLAB code for acquiring synchronized neural imaging data and behavioral video is here:
 
 https://github.com/dlab-bu/WideScope/tree/main/Acquisition_Code
