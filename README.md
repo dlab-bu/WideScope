@@ -2,6 +2,11 @@
 
 This page provideas all component lists, print files, assembly instructions, and code for assembling a large-area miniscope.
 
+
+
+
+
+
 ### Overview
 
 Miniaturized microscopes for head-mounted fluorescence imaging are powerful tools for visualizing neural activity during naturalistic behaviors, but the restricted field of view of first-generation ‘miniscopes’ can limit the size of neural populations accessible for imaging. This page describes a design for a miniaturized 'mesoscope' allowing cellular-resolution imaging over areas spanning several millimeters in freely moving mice. 
