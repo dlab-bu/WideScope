@@ -3,8 +3,14 @@ The .STL files here can be used to print the housing for the main scope body.
 
 The '_UCLA' and '_Ximea' versions are identical apart from the platform that holds the sensor chip.
 Use the version that matches your hardware needs. 
-Both have a 4.5 mm aperture at the center of the optical path, 
-giving efficient light collection but at the expense of reduced resolution at the FOV edges.
+
+The '_UCLA' version has a 4.5 mm aperture at the center of the optical path, 
+giving maximal light collection but at the expense of reduced resolution at the FOV edges,
+which has little impact given the pixel count for this sensor.
+
+The '_Ximea' version has a 3.0 mm aperture at the center of the optical path, 
+maintaining relatively efficient light collection while improving resolution at the FOV edges
+for high-pixel-count cellular resolution imaging.
 
 The single '_LensCover' file is used for both designs.
 Two of these covers fit above the lens elements after they are loaded into the housing.  
